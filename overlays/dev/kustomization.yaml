@@ -5,4 +5,4 @@ resources:
 namePrefix: '-'
 images:
 - name: gitopsworkshop/my-app
-  newTag: v2
+  newTag: v3
